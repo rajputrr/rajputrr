@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajput-rr&label=Profile%20views&color=0e75b6&style=flat" alt="rajput-rr" /> </p>
 
-- 🌱 I’m currently learning **MongoDB right now.**
-
-- 💬 Ask me about **react, JavaScript, Java**
+- 👋 Greetings, I'm Rahul Rajput.
+- 👀 I'm interested in user research, UI/UX, and Web Development.
+- 🌱 I'm studying TypeScript and MongoDB right now.
+- 💞 I want to contribute to startups and UI/UX projects that I think are creative enough.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
