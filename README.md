@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajput-rr&label=Profile%20views&color=0e75b6&style=flat" alt="rajput-rr" /> </p>
 
-- 👋 Greetings, I'm Rahul Rajput.
-- 👀 I'm interested in user research, UI/UX, and Web Development.
-- 🌱 I'm studying TypeScript and MongoDB right now.
-- 💞 I want to contribute to startups and UI/UX projects that I think are creative enough.
+- 👋 Hi, I'm Ragul Rajput. I have experience as a remote software developer intern and have worked on various freelancing projects focused on front-end development. 
+     Additionally, I actively collaborate with other developers to enhance my career growth and skill set.
+- 👀 I'm passionate about user research, UI/UX design, and web development. 
+- 🌱 Currently, I'm expanding my skills by studying TypeScript and MongoDB.
+- 💞 I'm eager to contribute to innovative startups, creative UI/UX projects, and front-end development projects using React.
 - 📄 <a href="https://drive.google.com/file/d/10jwbb0mDATykex2PgiK1iM6Upt6WrZ4T/view?usp=sharing">Resume</a>
 
 <h3 align="left">Languages and Tools:</h3>
