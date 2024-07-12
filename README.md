@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi 👋, I'm Rahul Rajput</h1>
 
 ###
 
