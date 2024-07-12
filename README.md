@@ -18,15 +18,13 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
+<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h3 align="center">Software Developer From India</h3>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">Software Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajput-rr&label=Profile%20views&color=0e75b6&style=flat" alt="rajput-rr" /> </p>
 
@@ -36,7 +34,7 @@
 - 🌱 Currently, I'm expanding my skills by studying TypeScript and MongoDB.
 - 💞 I'm eager to contribute to innovative startups, creative UI/UX projects, and front-end development projects using React.
 - 📄 <a href="https://drive.google.com/file/d/10jwbb0mDATykex2PgiK1iM6Upt6WrZ4T/view?usp=sharing">Resume</a>
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
 
 ###
 
