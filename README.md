@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rajputrr.rajputrr&"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 
 ###
