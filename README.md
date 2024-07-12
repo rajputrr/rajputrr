@@ -20,7 +20,6 @@
 
 <p align="left">- 👋 Hi, I'm Rahul Rajput. I have experience as a remote software developer intern and have worked on various freelancing projects focused on front-end development. <br>     Additionally, I actively collaborate with other developers to enhance my career growth and skill set.<br>- 👀 I'm passionate about user research, UI/UX design, and web development. <br>- 🌱 Currently, I'm expanding my skills by studying TypeScript and MongoDB.<br>- 💞 I'm eager to contribute to innovative startups, creative UI/UX projects, and front-end development projects using React.</p>
 - 📄 <a href="https://drive.google.com/file/d/10jwbb0mDATykex2PgiK1iM6Upt6WrZ4T/view?usp=sharing">Resume</a>
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
