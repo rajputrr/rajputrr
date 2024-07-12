@@ -20,7 +20,6 @@
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">Software Developer From India</h3>
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
