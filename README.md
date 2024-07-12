@@ -94,4 +94,4 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/rajputrr/rajputrr/output/snake.svg" alt="Snake animation" />
+
